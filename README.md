@@ -1,1 +1,2 @@
-
+food=['egg']
+print(food)
